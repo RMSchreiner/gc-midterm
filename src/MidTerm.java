@@ -3,7 +3,7 @@ public class MidTerm {
 
 	public static void main(String[] args) {
 
-		System.out.println("Once upon a time in the mystical land of "
+		System.out.println("Twice upon a time in the mystical land of "
 				+ "Detroit there dwelt an immortal named David and "
 				+ "his trusty band of ninja monkeys.");
 		System.out.println("Udikan the Warrior was determined to prove that David is no immortal.");
