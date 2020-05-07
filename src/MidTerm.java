@@ -11,6 +11,7 @@ public class MidTerm {
 		System.out.println("Udikan did not know that his motherbore him after drinking coffee from this "
 				+ "enchanted coffee pot");
 		System.out.println("This meant that only David could slay him.");
+		System.out.println("The End.");
 	}
 
 }
